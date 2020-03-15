@@ -1,1 +1,1 @@
-# QXI_DataScience_vijay
+# QXI_DataScience_Vijay
